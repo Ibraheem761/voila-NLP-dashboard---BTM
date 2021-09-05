@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser BTM.ipynb
+web: voila --port=$PORT --no-browser BTM2.ipynb
